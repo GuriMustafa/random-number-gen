@@ -1,0 +1,13 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+#roll{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 5px;
+    color: rgb(62, 160, 62) ;
+}
+#mylabel{
+    font-size: 3em;
+}
